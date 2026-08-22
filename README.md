@@ -9,8 +9,8 @@ https://www.nature.com/articles/s41587-026-03140-1 (La ecografía es ampliamente
 2. Problema de detección de pérdida de la motricidad debido a la exposición de mercurio utilizado en actividades de minería aurífera
 https://www.minam.gob.pe/notas-de-prensa/gobierno-declara-el-estado-de-emergencia/ (41 % de la población de Madre de Dios fue estimada por el Gobierno peruano como afectada por contaminación con mercurio asociada a minería ilegal en 2016
 https://www.minam.gob.pe/minamata/12-2/ 76,5 % de los participantes de Madre de Dios presentaba niveles de mercurio por encima del límite utilizado por la OM 
-https://pubmed.ncbi.nlm.nih.gov/28718354/   Encontró que una mayor exposición al mercurio se relacionaba con temblor, deterioro de la coordinación, menor destreza manual y reducción de la velocidad motora
- Alternativa de solución inicial
+https://pubmed.ncbi.nlm.nih.gov/28718354/   Encontró que una mayor exposición al mercurio se relacionaba con temblor, deterioro de la coordinación, menor destreza manual y reducción de la velocidad motora;
+Alternativa de solución inicial
 Desarrollar un dispositivo wearable colocado en la muñeca que monitoree los movimientos habituales del usuario mediante sensores como acelerómetros y giroscopios.
 Inicialmente, el sistema establecería un patrón basal individual de movimiento. Posteriormente, analizaría de manera continua o mediante pequeñas pruebas motoras variables como: frecuencia e intensidad del temblor; estabilidad de la mano; regularidad del movimiento; coordinación; cambios respecto al patrón habitual.
 Si el dispositivo detecta una alteración persistente o un deterioro progresivo respecto al comportamiento normal del usuario, generaría una alerta recomendando una evaluación médica.
