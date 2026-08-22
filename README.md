@@ -9,9 +9,18 @@ https://www.nature.com/articles/s41587-026-03140-1 (La ecografía es ampliamente
 2. Problema de detección de pérdida de la motricidad debido a la exposición de mercurio utilizado en actividades de minería aurífera
 https://www.minam.gob.pe/notas-de-prensa/gobierno-declara-el-estado-de-emergencia/ (41 % de la población de Madre de Dios fue estimada por el Gobierno peruano como afectada por contaminación con mercurio asociada a minería ilegal en 2016
 https://www.minam.gob.pe/minamata/12-2/ 76,5 % de los participantes de Madre de Dios presentaba niveles de mercurio por encima del límite utilizado por la OM 
-https://pubmed.ncbi.nlm.nih.gov/28718354/   Encontró que una mayor exposición al mercurio se relacionaba con temblor, deterioro de la coordinación, menor destreza manual y reducción de la velocidad motora 
+https://pubmed.ncbi.nlm.nih.gov/28718354/   Encontró que una mayor exposición al mercurio se relacionaba con temblor, deterioro de la coordinación, menor destreza manual y reducción de la velocidad motora
+ Alternativa de solución inicial
+Desarrollar un dispositivo wearable colocado en la muñeca que monitoree los movimientos habituales del usuario mediante sensores como acelerómetros y giroscopios.
+Inicialmente, el sistema establecería un patrón basal individual de movimiento. Posteriormente, analizaría de manera continua o mediante pequeñas pruebas motoras variables como: frecuencia e intensidad del temblor; estabilidad de la mano; regularidad del movimiento; coordinación; cambios respecto al patrón habitual.
+Si el dispositivo detecta una alteración persistente o un deterioro progresivo respecto al comportamiento normal del usuario, generaría una alerta recomendando una evaluación médica.
+Idea central del proyecto
+Exposición crónica a mercurio → posible deterioro neuromotor progresivo → detección tardía → pérdida de autonomía.
+Wearable de monitoreo motor → comparación con línea base individual → detección temprana de cambios → alerta para evaluación médica.
 
-3. Bacteremia (CLABSI: Central Line-Associated Bloodstream Infection)
+El dispositivo no diagnosticaría intoxicación por mercurio, sino que funcionaría como una herramienta de tamizaje y monitoreo temprano del deterioro motor. Eso hace que la propuesta sea bastante más sólida y realista para Biodiseño.
+
+4. Bacteremia (CLABSI: Central Line-Associated Bloodstream Infection)
 https://www.sciencedirect.com/science/article/pii/S019567012400269X
 https://pure.johnshopkins.edu/en/publications/the-past-present-and-future-of-healthcare-associated-infection-pr-9
 Las infecciones asociadas a vías centrales son una causa importante de morbimortalidad y prolongación de las estancias hospitalarias en pacientes pediátricos y neonatales.
