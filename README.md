@@ -1,12 +1,15 @@
 # PROYECTO DE BIODISEÑO 1
 
+
 # MIEMBROS DEL EQUIPO: 
 
-| Nombre | Código | Rol | Correo |
-|--------|--------|-----|--------|
-| Ana Pérez | 20201234 | Líder / Electrónica | ana.perez@uni.pe |
-| Luis Quispe | 20205678 | Software | luis.q@uni.pe |
-| María Torres | 20209012 | Validación biomédica | maria.t@uni.pe |
+| Nombre | Rol | Correo |
+|--------|-----|--------|
+| Alexis Ariel Perez Vilchez | Encargado del diseño electrónico | alexis.perez@upch.pe |
+| Juan Carlos Lugo Rodriguez | Encargado del prototipado electrónico | juan.lugo@upch.pe |
+| Taline Dione Llactahuaman Díaz | Encargada de la coordinación general | taline.llactahuaman@upch.pe |
+| Alejandra Abigail Araoz Miranda | Encargada de diseño 3D | alejandra.araoz@upch.pe |
+| Ana Paula Cornejo Salazar | Encargada de manufactura digital | ana.cornejo@upch.pe |
 
 # PROBLEMÁTICA:
 
