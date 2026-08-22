@@ -3,6 +3,8 @@
 
 # MIEMBROS DEL EQUIPO: 
 
+[![image.png](https://i.postimg.cc/TPCRTHg0/image.png)](https://postimg.cc/3y0MB1L0)
+
 | Nombre | Rol | Correo |
 |--------|-----|--------|
 | Alexis Ariel Perez Vilchez | Encargado del diseño electrónico | alexis.perez@upch.pe |
