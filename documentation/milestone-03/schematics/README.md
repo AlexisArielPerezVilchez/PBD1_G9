@@ -24,11 +24,11 @@ The system integrates two sensing subsystems for fetal movement detection and fe
 
 ## Circuit Schematic
 
-The electronic schematic and KiCad design files are provided in this directory.
+The electronic schematic was designed using EasyEDA.
 
-## Design Software
+### Schematic Documentation
 
-- EasyEda – Electronic schematic capture and PCB design.
+[View Electronic Circuit Schematic (PDF)](fetal-monitor-schematic.pdf)
 
 ## Project Status
 
