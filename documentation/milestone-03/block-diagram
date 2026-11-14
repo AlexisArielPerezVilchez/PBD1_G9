@@ -1,0 +1,14 @@
+# System Block Diagram
+
+This section presents the functional block diagram of the **Fetal Movement Monitoring Wearable**.
+
+The diagram illustrates the main components of the system and their functional relationships, including:
+
+- **Piezoelectric Sensors:** Detection of mechanical signals associated with fetal movements.
+- **Signal Conditioning:** Amplification and filtering of the acquired signals.
+- **ESP32 Microcontroller:** Analog signal acquisition and processing.
+- **Output:** Presentation of the detected movement information.
+
+## Status
+
+In progress.
