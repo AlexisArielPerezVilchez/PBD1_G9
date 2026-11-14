@@ -6,7 +6,7 @@ This section presents the functional block diagram of a non-invasive biomedical 
 
 ## Block Diagram
 
-The complete system block diagram will be included in this directory.
+![System Block Diagram](system-block-diagram.png)
 
 ## Project Status
 
